@@ -21,15 +21,15 @@ export const Projects = () => {
             </div>
             <div className="bmi col-4">
                   <h6>To see the Full View Of the site Click the Button</h6>
-                  <button ><a href="https://tamilnaduebbillcalculatorhome.netlify.app/" target="_blank"  className="btn-link">EB Bill project</a></button>
+                  <button ><a href="https://tamilnaduebbillcalculatorhome.netlify.app/" target="_blank" rel="noreferrer"  className="btn-link">EB Bill project</a></button>
              </div>
              <div className="bmi col-4">
                   <h6>To see the Full View Of the site Click the Button</h6>
-                  <button ><a href="https://bodymassindexproject.netlify.app" target="_blank"  className="btn-link">Body Mass Index project</a></button>
+                  <button ><a href="https://bodymassindexproject.netlify.app" target="_blank" rel="noreferrer"  className="btn-link">Body Mass Index project</a></button>
              </div>
              <div className="bmi col-4">
                   <h6>To see the Full View Of the site Click the Button</h6>
-                  <button ><a href="https://spicyhuttwebsite.netlify.app/" target="_blank"  className="btn-link">Commercial project</a></button>
+                  <button ><a href="https://spicyhuttwebsite.netlify.app/" target="_blank" rel="noreferrer" className="btn-link">Commercial project</a></button>
              </div>
              <div className="exit  col-12">
                    <Link to="/">
